@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dongqi Cai (蔡栋琪)
-- 👀 I am currently a fourth year PhD student (expected to graduate in June 2026), co-advised by [Prof. Shangguang Wang](http://www.sgwang.org) and [Prof. Mengwei Xu](https://xumengwei.github.io/).
+- 👀 I am currently a final year PhD student (expected to graduate in November 2025), co-advised by [Prof. Shangguang Wang](http://www.sgwang.org) and [Prof. Mengwei Xu](https://xumengwei.github.io/).
 - 🇬🇧 I am visiting the University of Cambridge under the supervision of [Prof. Nicholas D. Lane](http://niclane.org).
 - 🌱 For more information, please visit [my personal website](https://www.caidongqi.com).
 <!-- - 💞️ I’m looking to collaborate on ...
